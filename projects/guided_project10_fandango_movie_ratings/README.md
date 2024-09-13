@@ -28,6 +28,6 @@ This project includes the following data files:
 
 ### Project Notebook
 
-You can also directly view or run the analysis in the [Jupyter Notebook](https://github.com/timmueller0/data_projects_misc/blob/main/projects/guided_project8_star_wars_survey/Guided_project%208%20-%20Star%20Wars%20Survey.ipynb).
+You can also directly view or run the analysis in the [Jupyter Notebook](https://github.com/timmueller0/data_projects_misc/blob/main/projects/guided_project10_fandango_movie_ratings/Guided_project10%20-%20Fandango%20movie%20ratings.ipynb)
 
 
