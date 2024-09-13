@@ -1,7 +1,7 @@
 # data_projects_misc
 A variety of smaller data science projects
 
-In this repository I am collecting a number of learning projects based on tutorials done in [Dataquest](https://www.dataquest.io/). I will gradually add projects here and later create separate repositories for bigger standalone projects. This description will be updated.
+In this repository I am collecting a number of tutorial based [learning projects](https://www.dataquest.io/) and smaller data explorations. I will gradually add projects here and later create separate repositories for bigger standalone projects. This description will be updated.
 
 ### Projects:
 
