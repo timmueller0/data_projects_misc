@@ -6,7 +6,7 @@ Hacker News is a site started by the startup incubator Y Combinator, where user-
 
 This project includes the following data files:
 
-- `data/hacker_news.csv`: Contains the analysis dataset.
+- `Data/hacker_news.csv`: Contains the analysis dataset.
 
 ### Instructions
 
