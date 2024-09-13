@@ -13,3 +13,4 @@ In this repository I am collecting a number of tutorial based [learning projects
 - [Employee Dissatisfaction and Resignation](https://github.com/timmueller0/data_projects_misc/blob/main/projects/guided_project6_employee_dissatisfaction/README.md)
 - [SAT Scores in NYC Schools](https://github.com/timmueller0/data_projects_misc/blob/main/projects/guided_project7_nyc_schools/README.md)
 - [Analysis of a Star Wars Survey](https://github.com/timmueller0/data_projects_misc/blob/main/projects/guided_project8_star_wars_survey/README.md)
+- [Exploring Financial Data using Nasdaq Data Link API](https://github.com/timmueller0/data_projects_misc/blob/main/projects/guided_project9_nasdaq_api_analysis/README.md)
