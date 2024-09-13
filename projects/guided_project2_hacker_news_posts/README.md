@@ -11,5 +11,5 @@ This project includes the following data files:
 ### Instructions
 
 1. Download or clone this repository.
-2. Ensure that the data files are located in the `data/` directory.
+2. Ensure that the data files are located in the `Data/` directory.
 3. Open the Jupyter Notebook `ios_android_apps.ipynb` and run the cells to reproduce the analysis.
