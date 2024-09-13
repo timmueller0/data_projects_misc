@@ -9,4 +9,4 @@ This dataset has only 50,000 datapoints sampled from the original, and some erro
 
 ### Project Notebook
 
-You can directly view or run the analysis in the [Jupyter Notebook](https://github.com/timmueller0/data_projects_misc/blob/main/projects/guided_project2_hacker_news_posts/Guided_project2%20-%20Hacker%20News%20posts.ipynb).
+You can directly view or run the analysis in the [Jupyter Notebook](https://github.com/timmueller0/data_projects_misc/blob/main/projects/guided_project3_ebay_car_sales/Guided_project3%20-%20eBay%20car%20sales.ipynb).
