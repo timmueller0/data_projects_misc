@@ -20,9 +20,9 @@ This project includes the following data files:
 
 1. Download or clone this repository.
 2. Ensure that the data files are located in the `Data/` directory.
-3. Open the Jupyter Notebook `Guided_project2 - Hacker News posts.ipynb` and run the cells to reproduce the analysis.
+3. Open the Jupyter Notebook `Guided_project 7 - NYC Schools.ipynb` and run the cells to reproduce the analysis.
 
 ### Project Notebook
 
-You can also directly view or run the analysis in the [Jupyter Notebook](https://github.com/timmueller0/data_projects_misc/blob/main/projects/guided_project2_hacker_news_posts/Guided_project2%20-%20Hacker%20News%20posts.ipynb).
+You can also directly view or run the analysis in the [Jupyter Notebook](https://github.com/timmueller0/data_projects_misc/blob/main/projects/guided_project7_nyc_schools/Guided_project%207%20-%20NYC%20Schools.ipynb).
 
