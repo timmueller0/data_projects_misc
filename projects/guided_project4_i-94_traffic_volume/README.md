@@ -1,12 +1,13 @@
-## Exploring Hacker News Posts
-
-Hacker News is a site started by the startup incubator Y Combinator, where user-submitted stories (known as "posts") receive votes and comments, similar to reddit. Hacker News is extremely popular in technology and startup circles, and posts that make it to the top of the Hacker News listings can get hundreds of thousands of visitors as a result.
+## Analysing Traffic on the Interstate 94 (I-94) Highway
+The goal of our analysis is to determine a few indicators of heavy traffic on I-94. These indicators can be weather type, time of the day, time of the week, etc. For instance, we may find out that the traffic is usually heavier in the summer or when it snows. We will use various data visualisation techniques for this.
+We're going to analyse a dataset about the westbound traffic on the I-94 Interstate highway.
+John Hogue made the dataset available, and you can download it from the UCI Machine Learning Repository.
 
 ## Data Files
 
 This project includes the following data files:
 
-- `Data/hacker_news.csv`: Contains the analysis dataset.
+- `Data/Metro_Interstate_Traffic_Volume.csv`: Contains the analysis dataset.
 
 ### Instructions
 
