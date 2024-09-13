@@ -9,7 +9,7 @@ We will extract financial data for a specific set of companies, with an emphasis
 
 ### Project Notebook
 
-You can also directly view or run the analysis in the [Jupyter Notebook](https://github.com/timmueller0/data_projects_misc/blob/main/projects/guided_project8_star_wars_survey/Guided_project%208%20-%20Star%20Wars%20Survey.ipynb).
+You can also directly view or run the analysis in the [Jupyter Notebook](https://github.com/timmueller0/data_projects_misc/blob/main/projects/guided_project9_nasdaq_api_analysis/Guided_project9%20-%20NASDAQ%20API%20analysis.ipynb).
 
 
 
