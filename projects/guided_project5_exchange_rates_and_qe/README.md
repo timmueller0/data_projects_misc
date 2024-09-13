@@ -18,5 +18,4 @@ This project includes the following data files:
 
 ### Project Notebook
 
-You can also directly view or run the analysis in the [Jupyter Notebook](https://github.com/timmueller0/data_projects_misc/blob/main/projects/guided_project4_i-94_traffic_volume/Guided%20project%204%20-%20I-94%20traffic%20volume.ipynb).
-
+You can also directly view or run the analysis in the [Jupyter Notebook](https://github.com/timmueller0/data_projects_misc/blob/main/projects/guided_project5_exchange_rates_and_qe/Guided%20project%205%20-%20Exchange%20rates%20and%20QE.ipynb)
