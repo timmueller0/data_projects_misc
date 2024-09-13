@@ -13,7 +13,7 @@ This project includes the following data files:
 
 1. Download or clone this repository.
 2. Ensure that the data files are located in the `Data/` directory.
-3. Open the Jupyter Notebook `ios_android_apps.ipynb` and run the cells to reproduce the analysis.
+3. Open the Jupyter Notebook `Guided project 4 - I-94 traffic volume.ipynb` and run the cells to reproduce the analysis.
 
 ### Project Notebook
 
