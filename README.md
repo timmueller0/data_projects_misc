@@ -6,5 +6,5 @@ In this repository I am collecting a number of learning projects based on tutori
 ### Projects:
 
 - [iOS and Android Apps Analysis](projects/guided_project1_ios_android_apps/README.md)
-- [Hacker News Posts Analysis](projects/guided_project2_hacker_news_posts_analysis/README.md)
+- [Hacker News Posts Analysis](projects/guided_project2_hacker_news_posts/README.md)
 - [eBay Car Sales Exploration](projects/guided_project3_ebay_car_sales_exploration/README.md)
