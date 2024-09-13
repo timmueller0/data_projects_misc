@@ -13,3 +13,7 @@ This project includes the following data files:
 1. Download or clone this repository.
 2. Ensure that the data files are located in the `Data/` directory.
 3. Open the Jupyter Notebook `ios_android_apps.ipynb` and run the cells to reproduce the analysis.
+
+### Project Notebook
+
+You can also directly view or run the analysis in the [Jupyter Notebook](https://github.com/timmueller0/data_projects_misc/blob/main/projects/guided_project1_ios_android_apps/Guided_project2%20-%20Hacker%20News%20posts.ipynb).
