@@ -20,4 +20,4 @@ This project includes the following data files:
 
 ### Project Notebook
 
-You can also directly view or run the analysis in the Jupyter Notebook: [ios_android_apps.ipynb](Guided_project1 - ios_android_apps.ipynb)
+You can also directly view or run the analysis in the Jupyter Notebook: [ios_android_apps.ipynb](/Guided_project1 - ios_android_apps.ipynb)
