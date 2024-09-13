@@ -11,3 +11,4 @@ In this repository I am collecting a number of tutorial based [learning projects
 - [Analysing Traffic on the Interstate 94 (I-94) Highway](https://github.com/timmueller0/data_projects_misc/blob/main/projects/guided_project4_i-94_traffic_volume/README.md)
 - [Storytelling Data Visualization on Exchange Rates](https://github.com/timmueller0/data_projects_misc/blob/main/projects/guided_project5_exchange_rates_and_qe/README.md)
 - [Employee Dissatisfaction and Resignation](https://github.com/timmueller0/data_projects_misc/blob/main/projects/guided_project6_employee_dissatisfaction/README.md)
+- [SAT Scores in NYC Schools](https://github.com/timmueller0/data_projects_misc/blob/main/projects/guided_project7_nyc_schools/README.md)
