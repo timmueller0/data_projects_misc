@@ -10,7 +10,8 @@ We only build apps that are free to download and install, and our main source of
 
 This project includes the following data files:
 
-- `Data/ios_android_apps_data.csv`: Contains the dataset used for the iOS and Android apps analysis.
+- `Data/AppleStore.csv`: Contains the dataset used for the iOS App Store analysis.
+- `Data/googleplaystore.csv`: Contains the dataset used for the Google Play Store analysis.
 
 ### Instructions
 
