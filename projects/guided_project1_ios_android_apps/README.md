@@ -10,12 +10,12 @@ We only build apps that are free to download and install, and our main source of
 
 This project includes the following data files:
 
-- `data/ios_android_apps_data.csv`: Contains the dataset used for the iOS and Android apps analysis.
+- `Data/ios_android_apps_data.csv`: Contains the dataset used for the iOS and Android apps analysis.
 
 ### Instructions
 
 1. Download or clone this repository.
-2. Ensure that the data files are located in the `data/` directory.
+2. Ensure that the data files are located in the `Data/` directory.
 3. Open the Jupyter Notebook `ios_android_apps.ipynb` and run the cells to reproduce the analysis.
 
 ### Project Notebook
