@@ -19,6 +19,6 @@ This project includes the following data files:
 
 ### Project Notebook
 
-You can also directly view or run the analysis in the [Jupyter Notebook](https://github.com/timmueller0/data_projects_misc/blob/main/projects/guided_project7_nyc_schools/Guided_project%207%20-%20NYC%20Schools.ipynb).
+You can also directly view or run the analysis in the [Jupyter Notebook](https://github.com/timmueller0/data_projects_misc/blob/main/projects/guided_project8_star_wars_survey/Guided_project%208%20-%20Star%20Wars%20Survey.ipynb).
 
 
