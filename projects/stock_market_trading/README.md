@@ -8,7 +8,7 @@ There are many steps to be taken, and if I have time, I will describe them in de
 For now, the separate files are available here, without much explanation.
 
 This is what happens (or is supposed to happen) in each file:
--` Stock market data - scrape components.py` - In order to download the stockmarket data, we first need the full list of stocks included in the S&P 500. In this file we scrape the data from the English Wikipedia page to put that list together.
+- `Stock market data - scrape components.py` - In order to download the stockmarket data, we first need the full list of stocks included in the S&P 500. In this file we scrape the data from the English Wikipedia page to put that list together.
 - `Stock market data - get quotes.py` - We download historical data from Yahoo Finance using the `yfinance` package. 
 - `Stock market data - clean and stack.py` - In this part we combine the data into a stacked form and calculate the day to day growth for each stock.
 - `Stock market data - calculate avg performance.py`- We now create some benchmarks about the performance of individual stocks.
