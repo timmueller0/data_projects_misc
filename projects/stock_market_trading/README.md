@@ -30,7 +30,7 @@ There are some known issues:
 * The Kelly-Optimization sometimes cannot reach an optimal solution. In this case, just a random sample of 5 stocks ( in a given market segment) are picked. This seems to happen far too often. I will change the code so that the optimization is iterated until an optimal solution is found. A random selection will only be the last resort.
 * The routine for the stockmarket data download could be updated to always download the latest data and update the calculations accordingly. This is on my list.
 * The whole project is complex and needs to be more user friendly. Some kind of user interface or at least proper prompting of input values is needed.
-* It despreately needs a better structure and version handling.
+* It despreately needs a better structure and version control.
 * Buying and selling are assumed to be free. Obviously this is not true. There is a buy and sell spread, there are trading costs, etc. This still needs to be implemented.
 * The benchmark function can probably be more easily integrated than running in a stand-alone file.
 * If I get my hands on actual historical intraday data, I will devise a way to implement buying and selling decision within a day . Right now, stocks are being bought at the opening price and sold at the selling price.
