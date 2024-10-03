@@ -21,9 +21,9 @@ This project includes the following data files:
 
 1. Download or clone this repository.
 2. Ensure that the data files are located in the `Data/` directory.
-3. Open the Jupyter Notebook `Guided_project11 - Find the best markets.ipynb` and run the cells to reproduce the analysis.
+3. Open the Jupyter Notebook `Guided_project_12 - Mobile App for Lottery Addiction.ipynb` and run the cells to reproduce the analysis.
 
 ### Project Notebook
 
-You can also directly view or run the analysis in the [Jupyter Notebook](https://github.com/timmueller0/data_projects_misc/blob/main/projects/guided_project11_find_the_best_markets/Guided_project11%20-%20Find%20the%20best%20markets.ipynb)
+You can also directly view or run the analysis in the [Jupyter Notebook](https://github.com/timmueller0/data_projects_misc/blob/main/projects/guided_project12_mobile_app_for_lottery_addiction/Guided_project_12%20-%20Mobile%20App%20for%20Lottery%20Addiction.ipynb))
 
