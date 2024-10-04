@@ -26,6 +26,6 @@ This project includes the following data files:
 
 ### Project Notebook
 
-You can also directly view or run the analysis in the [Jupyter Notebook](https://github.com/timmueller0/data_projects_misc/blob/main/projects/guided_project12_mobile_app_for_lottery_addiction/Guided_project_12%20-%20Mobile%20App%20for%20Lottery%20Addiction.ipynb))
+You can also directly view or run the analysis in the [Jupyter Notebook](https://github.com/timmueller0/data_projects_misc/blob/main/projects/guided_project13_building_a_spam_filter_with_naive_bayes/Guided_project_13%20-%20Building%20a%20Spam%20Filter%20with%20Naive%20Bayes.ipynb)
 
 
