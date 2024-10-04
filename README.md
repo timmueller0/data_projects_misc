@@ -6,6 +6,7 @@ In this repository I am collecting a number of tutorial based [learning projects
 ### Projects:
 
 - [Creating and testing a daytrading strategy on the S&P 500 Index](https://github.com/timmueller0/data_projects_misc/blob/main/projects/stock_market_trading/README.md)
+- [Building a Spam Filter with Naive Bayes](https://github.com/timmueller0/data_projects_misc/blob/main/projects/guided_project13_building_a_spam_filter_with_naive_bayes/README.md)
 - [Mobile App for Lottery Addiction](https://github.com/timmueller0/data_projects_misc/blob/main/projects/guided_project12_mobile_app_for_lottery_addiction/README.md)
 - [Finding the best two markets to advertise in](https://github.com/timmueller0/data_projects_misc/blob/main/projects/guided_project11_find_the_best_markets/README.md)
 - [Investigating Fandango Movie Ratings](https://github.com/timmueller0/data_projects_misc/blob/main/projects/guided_project10_fandango_movie_ratings/README.md)
