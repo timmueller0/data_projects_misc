@@ -4,7 +4,7 @@ A variety of smaller data science projects
 In this repository I am collecting a number of tutorial based [learning projects](https://www.dataquest.io/) and smaller data explorations. I will gradually add projects here and later create separate repositories for bigger standalone projects. This description will be updated.
 
 ### Projects:
-- [Visualizing migration related news in Germany 2023 from newspaper headlines (2023)](https://github.com/timmueller0/data_projects_misc/blob/main/projects/Migration_media_trends/README.md)
+- [Visualizing migration related news in Germany 2023 from newspaper headlines](https://github.com/timmueller0/data_projects_misc/blob/main/projects/Migration_media_trends/README.md)
 - [Creating and testing a daytrading strategy on the S&P 500 Index](https://github.com/timmueller0/data_projects_misc/blob/main/projects/stock_market_trading/README.md)
   
 - [Building a Spam Filter with Naive Bayes](https://github.com/timmueller0/data_projects_misc/blob/main/projects/guided_project13_building_a_spam_filter_with_naive_bayes/README.md)
