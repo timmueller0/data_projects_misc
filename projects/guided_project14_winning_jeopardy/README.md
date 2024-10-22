@@ -6,12 +6,6 @@ Imagine that we want to compete on Jeopardy, and we're looking for any way to wi
 
 The dataset is named `jeopardy.csv`, and contains 20000 rows from the beginning of a full dataset of Jeopardy questions, which can be downloaded [here](https://www.reddit.com/r/datasets/comments/1uyd0t/200000_jeopardy_questions_in_a_json_file).
 
-## Data Files
-
-This project includes the following data files:
-
-- `jeopardy.csv`: Jeopardy question dataset
-
 ### Instructions
 
 1. Download or clone this repository.
