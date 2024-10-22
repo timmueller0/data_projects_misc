@@ -18,7 +18,7 @@ This project includes the following data files:
 
 ### Project Notebook
 
-You can also directly view or run the analysis in the [Jupyter Notebook](https://github.com/timmueller0/data_projects_misc/blob/main/projects/guided_project13_building_a_spam_filter_with_naive_bayes/Guided_project_13%20-%20Building%20a%20Spam%20Filter%20with%20Naive%20Bayes.ipynb)
+You can also directly view or run the analysis in the [Jupyter Notebook](https://github.com/timmueller0/data_projects_misc/blob/main/projects/guided_project_17_predicting_insurance_costs/Guided_project_17%20-%20Predicting%20Insurance%20Costs.ipynb)
 
 
 
