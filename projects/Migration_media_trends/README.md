@@ -1,4 +1,4 @@
-# Visualizing migration related news in Germany 2023 from newspaper headlines (2023)
+# Visualizing migration related news in Germany 2023 from newspaper headlines
 
 The headlines come from a database, which tracks newspaper articles in German nationwide
 and regional newspapers. I drew a sample of two days per week, for which all search results for the search string "migration",
