@@ -6,6 +6,7 @@ In this repository I am collecting a number of tutorial based [learning projects
 ### Projects:
 - [Visualizing migration related news in Germany 2023 from newspaper headlines](https://github.com/timmueller0/data_projects_misc/blob/main/projects/Migration_media_trends/README.md)
 - [Creating and testing a daytrading strategy on the S&P 500 Index](https://github.com/timmueller0/data_projects_misc/blob/main/projects/stock_market_trading/README.md)
+- [Classifying Heart Disease](https://github.com/timmueller0/data_projects_misc/blob/main/projects/guided_project_19_classifying_heart_disease/README.md)
 - [Analysing Gym Wait Times Using Stochastic Gradient Descent](https://github.com/timmueller0/data_projects_misc/blob/main/projects/guided_project_18_analysing_gym_wait_times_using_stochastic_gradient_descent/README.md)
 - [Predicting Insurance Costs](https://github.com/timmueller0/data_projects_misc/blob/main/projects/guided_project_17_predicting_insurance_costs/README.md)
 - [Credit Card Customer Segmentation](https://github.com/timmueller0/data_projects_misc/blob/main/projects/guided_project_16_credit_card_customer_segmentation/README.md)
