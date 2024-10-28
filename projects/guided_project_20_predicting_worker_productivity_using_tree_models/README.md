@@ -16,5 +16,5 @@ Open the Jupyter Notebook `Guided_project_20 - Predicting Worker Productivity Us
 
 ## Project Notebook
 
-You can also directly view or run the analysis in the Jupyter Notebook
+You can also directly view or run the analysis in the [Jupyter Notebook](https://github.com/timmueller0/data_projects_misc/blob/main/projects/guided_project_20_predicting_worker_productivity_using_tree_models/Guided_project_20%20-%20Predicting%20Worker%20Productivity%20Using%20Tree%20Models.ipynb)
 
