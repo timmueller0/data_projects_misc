@@ -6,7 +6,7 @@ We are tasked with using the dataset to accurately predict the likelihood of a n
 
 This project includes the following data files:
 
-   -  `garments_worker_productivity.csv`: Productivity of garment workers 
+`garments_worker_productivity.csv`: Productivity of garment workers 
 
 ## Instructions
 
