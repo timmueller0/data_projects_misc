@@ -10,9 +10,9 @@ This project includes the following data files:
 
 ## Instructions
 
-    Download or clone this repository.
-    Ensure that the data files are located in the Data/ directory.
-    Open the Jupyter Notebook `Guided_project_20 - Predicting Worker Productivity Using Tree Models.ipynb` and run the cells to reproduce the analysis.
+Download or clone this repository.
+Ensure that the data files are located in the Data/ directory.
+Open the Jupyter Notebook `Guided_project_20 - Predicting Worker Productivity Using Tree Models.ipynb` and run the cells to reproduce the analysis.
 
 ## Project Notebook
 
