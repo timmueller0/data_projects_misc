@@ -17,4 +17,4 @@ This project includes the following data files:
 ### Instructions
 
 You can download the Tableau File and load it into Tableau Public. Of course you will also have to connect the csv files accordingly.
-Link to the data folder[https://github.com/timmueller0/data_projects_misc/blob/main/projects/bright_mail_analytics_dashboard/Data]
+[Link to the data folder](https://github.com/timmueller0/data_projects_misc/blob/main/projects/bright_mail_analytics_dashboard/Data)
