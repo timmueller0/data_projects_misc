@@ -4,6 +4,7 @@ A variety of smaller data science projects
 In this repository I am collecting a number of tutorial based [learning projects](https://www.dataquest.io/) and smaller data explorations. I will gradually add projects here and later create separate repositories for bigger standalone projects. This description will be updated.
 
 ### Projects:
+- [The BrightMail Analytics Dashboard](https://github.com/timmueller0/data_projects_misc/tree/main/projects/bright_mail_analytics_dashboard)
 - [Visualizing migration related news in Germany 2023 from newspaper headlines](https://github.com/timmueller0/data_projects_misc/blob/main/projects/Migration_media_trends/README.md)
 - [Creating and testing a daytrading strategy on the S&P 500 Index](https://github.com/timmueller0/data_projects_misc/blob/main/projects/stock_market_trading/README.md)
 - [Optimizing Model Prediction](https://github.com/timmueller0/data_projects_misc/blob/main/projects/guided_project_21_optimizing_model_prediction/README.md)
