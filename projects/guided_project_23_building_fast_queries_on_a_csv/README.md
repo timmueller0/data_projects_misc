@@ -18,5 +18,5 @@ Open the Jupyter Notebook `Guided_project_23 - Building Fast Queries on a CSV.ip
 
 ## Project Notebook
 
-You can also directly view or run the analysis in the [Jupyter Notebook](https://github.com/timmueller0/data_projects_misc/blob/main/projects/guided_project_21_optimizing_model_prediction/Guided_project_21%20-%20Optimizing%20Model%20Prediction.ipynb)
+You can also directly view or run the analysis in the [Jupyter Notebook](https://github.com/timmueller0/data_projects_misc/blob/main/projects/guided_project_23_building_fast_queries_on_a_csv/Guided_project_23%20-%20Building%20Fast%20Queries%20on%20a%20CSV.ipynb)
 
