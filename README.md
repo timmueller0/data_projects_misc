@@ -7,6 +7,7 @@ In this repository I am collecting a number of tutorial based [learning projects
 - [The BrightMail Analytics Dashboard](https://github.com/timmueller0/data_projects_misc/tree/main/projects/bright_mail_analytics_dashboard)
 - [Visualizing migration related news in Germany 2023 from newspaper headlines](https://github.com/timmueller0/data_projects_misc/blob/main/projects/Migration_media_trends/README.md)
 - [Creating and testing a daytrading strategy on the S&P 500 Index](https://github.com/timmueller0/data_projects_misc/blob/main/projects/stock_market_trading/README.md)
+- [Analyzing Startup Fundraising Deals from Crunchbase]([https://github.com/timmueller0/data_projects_misc/tree/main/projects/guided_project_26_analyzing_startup_fundraising_deals_from_crunchbase](https://github.com/timmueller0/data_projects_misc/blob/main/projects/guided_project_26_analyzing_startup_fundraising_deals_from_crunchbase/README.md))
 - [Optimizing DataFrames and Processing in Chunks](https://github.com/timmueller0/data_projects_misc/blob/main/projects/guided_project_25_optimizing_dataframes_and_processing_in_chunks/README.md)
 - [Building a Database for Crime Reports](https://github.com/timmueller0/data_projects_misc/blob/main/projects/guided_project_24_building_a_database_for_crime_reports/README.md)
 - [Bulding Fast Queries on a CSV](https://github.com/timmueller0/data_projects_misc/blob/main/projects/guided_project_23_building_fast_queries_on_a_csv/README.md)
