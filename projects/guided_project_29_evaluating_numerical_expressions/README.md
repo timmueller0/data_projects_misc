@@ -15,7 +15,7 @@ Open the Jupyter Notebook `Guided Project 29 - Evaluating Numerical Expressions.
 
 ## Project Notebook
 
-You can also directly view or run the analysis in the [Jupyter Notebook](https://github.com/timmueller0/data_projects_misc/blob/main/projects/guided_project_28_analyzing_stock_prices/Guided%20Project%2028%20-%20Analyzing%20Stock%20Prices.ipynb)
+You can also directly view or run the analysis in the [Jupyter Notebook](https://github.com/timmueller0/data_projects_misc/blob/main/projects/guided_project_29_evaluating_numerical_expressions/Guided%20Project%2029%20-%20Evaluating%20Numerical%20Expressions.ipynb)
 
 
 
