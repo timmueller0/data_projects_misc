@@ -7,7 +7,7 @@ In this repository I am collecting a number of tutorial based [learning projects
 - [The BrightMail Analytics Dashboard](https://github.com/timmueller0/data_projects_misc/tree/main/projects/bright_mail_analytics_dashboard)
 - [Visualizing migration related news in Germany 2023 from newspaper headlines](https://github.com/timmueller0/data_projects_misc/blob/main/projects/Migration_media_trends/README.md)
 - [Creating and testing a daytrading strategy on the S&P 500 Index](https://github.com/timmueller0/data_projects_misc/blob/main/projects/stock_market_trading/README.md)
-- [Analyzing Stock Proces](https://github.com/timmueller0/data_projects_misc/blob/main/projects/guided_project_28_analyzing_stock_prices/README.md)
+- [Analyzing Stock Prices](https://github.com/timmueller0/data_projects_misc/blob/main/projects/guided_project_28_analyzing_stock_prices/README.md)
 - [Analyzing Wikipedia Pages](https://github.com/timmueller0/data_projects_misc/blob/main/projects/guided_project_27_analyzing_wikipedia_pages/README.md)
 - [Analyzing Startup Fundraising Deals from Crunchbase](https://github.com/timmueller0/data_projects_misc/blob/main/projects/guided_project_26_analyzing_startup_fundraising_deals_from_crunchbase/README.md)
 - [Optimizing DataFrames and Processing in Chunks](https://github.com/timmueller0/data_projects_misc/blob/main/projects/guided_project_25_optimizing_dataframes_and_processing_in_chunks/README.md)
