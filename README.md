@@ -8,6 +8,7 @@ Note that each link leads to the `README.md` file of each project. If you want t
 - [The BrightMail Analytics Dashboard](https://github.com/timmueller0/data_projects_misc/tree/main/projects/bright_mail_analytics_dashboard)
 - [Visualizing migration related news in Germany 2023 from newspaper headlines](https://github.com/timmueller0/data_projects_misc/blob/main/projects/Migration_media_trends/README.md)
 - [Creating and testing a daytrading strategy on the S&P 500 Index](https://github.com/timmueller0/data_projects_misc/blob/main/projects/stock_market_trading/README.md)
+- [Evaluating Numerical Expressions](https://github.com/timmueller0/data_projects_misc/blob/main/projects/guided_project_29_evaluating_numerical_expressions/README.md)
 - [Analyzing Stock Prices](https://github.com/timmueller0/data_projects_misc/blob/main/projects/guided_project_28_analyzing_stock_prices/README.md)
 - [Analyzing Wikipedia Pages](https://github.com/timmueller0/data_projects_misc/blob/main/projects/guided_project_27_analyzing_wikipedia_pages/README.md)
 - [Analyzing Startup Fundraising Deals from Crunchbase](https://github.com/timmueller0/data_projects_misc/blob/main/projects/guided_project_26_analyzing_startup_fundraising_deals_from_crunchbase/README.md)
