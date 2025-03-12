@@ -17,7 +17,7 @@ This project includes the following data files:
 ## Instructions
 
 Download or clone this repository.
-Ensure that the data files are located in the Data/ directory.
+Ensure that the data files are located in the `Data/` directory.
 Open the Jupyter Notebook `Guided_project_23 - Building Fast Queries on a CSV.ipynb` and run the cells to reproduce the analysis.
 
 ## Project Notebook
