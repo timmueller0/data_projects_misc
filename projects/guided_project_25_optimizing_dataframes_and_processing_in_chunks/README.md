@@ -12,7 +12,7 @@ If we read in the entire dataset, it consumes about 67 megabytes of memory. Let'
 
 This project includes the following data files:
 
-`loans_2007.csv`: Loan dataset. [Lending Club dataset on Kaggle]([https://www.kaggle.com/datasets/muhammetvarl/laptop-price](https://www.kaggle.com/datasets/wordsforthewise/lending-club/data). 
+`loans_2007.csv`: Loan dataset. [Lending Club dataset on Kaggle](https://www.kaggle.com/datasets/wordsforthewise/lending-club/data). 
 
 ## Instructions
 
