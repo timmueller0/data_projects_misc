@@ -13,7 +13,7 @@ Open the Jupyter Notebook `Guided Project 27 - Analyzing Wikipedia Pages.ipynb` 
 
 ## Project Notebook
 
-You can also directly view or run the analysis in the [Jupyter Notebook](https://github.com/timmueller0/data_projects_misc/blob/main/projects/guided_project_27_analyzing_wikipedia_pages/Guided%20Project%2027%20-%20Analyzing%20Wikipedia%20Pages.ipynb)
+You can also directly view or run the analysis in the [Jupyter Notebook](https://github.com/timmueller0/data_projects_misc/blob/main/projects/guided_project_28_analyzing_stock_prices/Guided%20Project%2028%20-%20Analyzing%20Stock%20Prices.ipynb)
 
 
 
