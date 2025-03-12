@@ -13,10 +13,8 @@ The project used a database (including datafiles) made available by [Dataquest.i
 
 Download or clone this repository.
 Ensure that the data files are located in the Data/ directory.
-Open the Jupyter Notebook `Guided_project_24 -Building a database for crime reports.ipynb` and run the cells to reproduce the analysis.
+Open the Jupyter Notebook `Guided_project_30 - Implementing a Key-Value Database.ipynb` and run the cells to reproduce the analysis.
 
 ## Project Notebook
 
-You can also directly view or run the analysis in the [Jupyter Notebook](https://github.com/timmueller0/data_projects_misc/blob/main/projects/guided_project_24_building_a_database_for_crime_reports/Guided_project_24%20-Building%20a%20database%20for%20crime%20reports.ipynb)
-
-
+You can also directly view or run the analysis in the [Jupyter Notebook](https://github.com/timmueller0/data_projects_misc/blob/main/projects/guided_project_30_implementing_a_key_value_database/Guided_project_30%20-%20Implementing%20a%20Key-Value%20Database.ipynb)
