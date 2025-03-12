@@ -27,5 +27,5 @@ Open the Jupyter Notebook `Guided_project_24 -Building a database for crime repo
 
 ## Project Notebook
 
-You can also directly view or run the analysis in the [Jupyter Notebook](https://github.com/timmueller0/data_projects_misc/blob/main/projects/guided_project_23_building_fast_queries_on_a_csv/Guided_project_23%20-%20Building%20Fast%20Queries%20on%20a%20CSV.ipynb)
+You can also directly view or run the analysis in the [Jupyter Notebook](https://github.com/timmueller0/data_projects_misc/blob/main/projects/guided_project_24_building_a_database_for_crime_reports/Guided_project_24%20-Building%20a%20database%20for%20crime%20reports.ipynb)
 
