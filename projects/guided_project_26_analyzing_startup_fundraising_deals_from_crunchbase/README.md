@@ -23,5 +23,4 @@ Open the Jupyter Notebook `Guided Project 26 -Analyzing Startup Fundraising Deal
 
 ## Project Notebook
 
-You can also directly view or run the analysis in the [Jupyter Notebook](https://github.com/timmueller0/data_projects_misc/blob/main/projects/guided_project_25_optimizing_dataframes_and_processing_in_chunks/Guided_project_25%20-%20Optimizing%20DataFrames%20and%20Processing%20in%20Chunks.ipynb)
-
+You can also directly view or run the analysis in the [Jupyter Notebook](https://github.com/timmueller0/data_projects_misc/blob/main/projects/guided_project_26_analyzing_startup_fundraising_deals_from_crunchbase/Guided%20Project%2026%20-Analyzing%20Startup%20Fundraising%20Deals%20from%20Crunchbase.ipynb)
