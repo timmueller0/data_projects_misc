@@ -2,7 +2,7 @@
 A variety of smaller data science projects
 
 In this repository I am collecting a number of tutorial based [learning projects](https://www.dataquest.io/) and smaller data explorations. I will gradually add projects here and later create separate repositories for bigger standalone projects. This description will be updated.
-Note that Each link leads to the `README.md` file of each project. If you want to see the Code/Jupyter Notebook, click on the respective link in the `README`.
+Note that each link leads to the `README.md` file of each project. If you want to see the Code/Jupyter Notebook, click on the respective link in the `README`.
 
 ### Projects:
 - [The BrightMail Analytics Dashboard](https://github.com/timmueller0/data_projects_misc/tree/main/projects/bright_mail_analytics_dashboard)
