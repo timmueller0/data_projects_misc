@@ -7,6 +7,7 @@ In this repository I am collecting a number of tutorial based [learning projects
 - [The BrightMail Analytics Dashboard](https://github.com/timmueller0/data_projects_misc/tree/main/projects/bright_mail_analytics_dashboard)
 - [Visualizing migration related news in Germany 2023 from newspaper headlines](https://github.com/timmueller0/data_projects_misc/blob/main/projects/Migration_media_trends/README.md)
 - [Creating and testing a daytrading strategy on the S&P 500 Index](https://github.com/timmueller0/data_projects_misc/blob/main/projects/stock_market_trading/README.md)
+- [Building a Database for Crime Reports]()
 - [Bulding Fast Queries on a CSV](https://github.com/timmueller0/data_projects_misc/blob/main/projects/guided_project_23_building_fast_queries_on_a_csv/README.md)
 - [Optimizing Model Prediction](https://github.com/timmueller0/data_projects_misc/blob/main/projects/guided_project_21_optimizing_model_prediction/README.md)
 - [Predicting Worker Productivity Using Tree Models](https://github.com/timmueller0/data_projects_misc/blob/main/projects/guided_project_20_predicting_worker_productivity_using_tree_models/README.md)
