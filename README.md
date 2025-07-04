@@ -5,6 +5,7 @@ In this repository I am collecting a number of tutorial based [learning projects
 Note that each link leads to the `README.md` file of each project. If you want to see the Code/Jupyter Notebook, click on the respective link in the `README`.
 
 ### Projects:
+- [Data Analysis Toolkit](https://github.com/timmueller0/data_projects_misc/blob/main/projects/data_analysis_toolkit/README.md)
 - [The BrightMail Analytics Dashboard](https://github.com/timmueller0/data_projects_misc/tree/main/projects/bright_mail_analytics_dashboard)
 - [Visualizing migration related news in Germany 2023 from newspaper headlines](https://github.com/timmueller0/data_projects_misc/blob/main/projects/Migration_media_trends/README.md)
 - [Creating and testing a daytrading strategy on the S&P 500 Index](https://github.com/timmueller0/data_projects_misc/blob/main/projects/stock_market_trading/README.md)
